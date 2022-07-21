@@ -1,0 +1,45 @@
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfo.cs
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\CSStudy\Backjun\bin\Debug\net6.0\Backjun.exe
+C:\Users\502\Desktop\CSStudy\Backjun\bin\Debug\net6.0\Backjun.deps.json
+C:\Users\502\Desktop\CSStudy\Backjun\bin\Debug\net6.0\Backjun.runtimeconfig.json
+C:\Users\502\Desktop\CSStudy\Backjun\bin\Debug\net6.0\Backjun.dll
+C:\Users\502\Desktop\CSStudy\Backjun\bin\Debug\net6.0\Backjun.pdb
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.dll
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\refint\Backjun.dll
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.pdb
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\Backjun.genruntimeconfig.cache
+C:\Users\502\Desktop\CSStudy\Backjun\obj\Debug\net6.0\ref\Backjun.dll
+E:\CSStudy\Backjun\bin\Debug\net6.0\Backjun.exe
+E:\CSStudy\Backjun\bin\Debug\net6.0\Backjun.deps.json
+E:\CSStudy\Backjun\bin\Debug\net6.0\Backjun.runtimeconfig.json
+E:\CSStudy\Backjun\bin\Debug\net6.0\Backjun.dll
+E:\CSStudy\Backjun\bin\Debug\net6.0\Backjun.pdb
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.AssemblyReference.cache
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfoInputs.cache
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfo.cs
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.CoreCompileInputs.cache
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.dll
+E:\CSStudy\Backjun\obj\Debug\net6.0\refint\Backjun.dll
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.pdb
+E:\CSStudy\Backjun\obj\Debug\net6.0\Backjun.genruntimeconfig.cache
+E:\CSStudy\Backjun\obj\Debug\net6.0\ref\Backjun.dll
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.AssemblyReference.cache
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfoInputs.cache
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.AssemblyInfo.cs
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.csproj.CoreCompileInputs.cache
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.dll
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\refint\Backjun.dll
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.pdb
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\bin\Debug\net6.0\Backjun.exe
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\bin\Debug\net6.0\Backjun.deps.json
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\bin\Debug\net6.0\Backjun.runtimeconfig.json
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\bin\Debug\net6.0\Backjun.dll
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\bin\Debug\net6.0\Backjun.pdb
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\Backjun.genruntimeconfig.cache
+C:\Users\yhg09\OneDrive\바탕 화면\CSStudy_Home\CCStudy\Backjun\obj\Debug\net6.0\ref\Backjun.dll
