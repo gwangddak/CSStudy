@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qy+05MtTcdxUGeKCN7ImJDG9NNwxJYB0sVBjUC1+MWwJT3Lern30uTYnpO8tf5h4nD6Yk+ocKK+1azSqa4fVgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\502\\Desktop\\CSStudy\\Exam\\Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\502\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\502\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
