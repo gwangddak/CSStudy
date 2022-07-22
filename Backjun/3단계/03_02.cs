@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Backjun._3단계
 {
-    internal class _03_04
+    internal class _03_02
     {
-        static void Main4(string[] args)
+        static void Main2(string[] args)
         {
             int f = int.Parse(Console.ReadLine());
 
@@ -15,9 +15,9 @@ namespace Backjun._3단계
             for (int i = 0; i < f; i++)
             {
                 string[] arg = Console.ReadLine().Split();
-                first.Append(int.Parse (arg[0]) + int.Parse(arg[1]) + "\n");
-                
-         
+                first.Append(int.Parse(arg[0]) + int.Parse(arg[1]) + "\n");
+
+
             }
             Console.WriteLine(first.ToString());
 
