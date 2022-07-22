@@ -90,7 +90,8 @@ SELECT * FROM `Product`;
 # 실습 6-7
 SELECT `company` FROM `Product`;
 # 실습 6-8
-SELECT DISTINCT(`company`)FROM `Product`; # 중복결과 제거 
+SELECT DISTINCT(`company`) FROM `Product`; # 중복결과 제거 
+SELECT `company`,`price` FROM `Product` GROUP BY `company`; # 중복결과 묶음
 # 실습 6-9
 SELECT `prodName` , `price` FROM `Product`;
 
@@ -156,7 +157,7 @@ SELECT `orderProduct`, `orderId`, SUM(`orderCount`) AS `총 주문수량` FROM `
 SELECT a.orderId, b.prodName FROM `order` AS a
 JOIN `product` AS b
 ON a.orderProduct = b.prodNo
-WHERE `orderid` = 'kimcc';
+WHERE `orderid` = 'kimcc';ssq
 
 #실습 6-30. 주문일자가 7월 3일인 고객의 아이디, 이름, 상품명 그리고 주문 날짜시간을  조회하시오.
 SELECT `orderid`, `name`, `prodName`, `orderDate` FROM `order` AS a
