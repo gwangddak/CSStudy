@@ -8,7 +8,7 @@ namespace Backjun._3단계
 {
     internal class _03_10
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             string arg = Console.ReadLine();
 

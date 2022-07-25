@@ -9,24 +9,14 @@ namespace Backjun._3단계
     internal class _03_05
     {
 
-        static void Main5(string[] args)
+        static void Main(string[] args)
         {
-            string arg = Console.ReadLine();
-
-            int a = int.Parse(arg);
-            int b =0;
-            for (int i = a; i <= a; i++)
+            StringBuilder sb = new StringBuilder();
+            int a = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= a; i++)
             {
-                b+=i;
-                Console.WriteLine();
+                Console.WriteLine(i);
             }
-
-            
-
-
         }
-
-
-
     }
 }
