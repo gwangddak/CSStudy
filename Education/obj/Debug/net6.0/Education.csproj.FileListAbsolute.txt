@@ -1,0 +1,15 @@
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\bin\Debug\net6.0\Education.exe
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\bin\Debug\net6.0\Education.deps.json
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\bin\Debug\net6.0\Education.runtimeconfig.json
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\bin\Debug\net6.0\Education.dll
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\bin\Debug\net6.0\Education.pdb
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.AssemblyInfo.cs
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.dll
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\refint\Education.dll
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.pdb
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\Education.genruntimeconfig.cache
+C:\Users\502\Desktop\CSStudy\CSStudy\Education\obj\Debug\net6.0\ref\Education.dll
